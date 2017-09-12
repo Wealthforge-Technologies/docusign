@@ -3,3 +3,7 @@
 tmp/
 gin-bin
 .DS_Store
+
+# ignore the compiled executables
+docusign
+debug
